@@ -1,0 +1,16 @@
+Google fonts - https://fonts.google.com/
+
+    fonts
+
+Freepik - https://www.freepik.com/
+
+    background image
+    hero-section image
+    places-icons
+
+Bootstrap - https://getbootstrap.com/
+
+    social media icons
+    navigation bar
+    stylesheets
+    Bootstrap scripts
